@@ -109,6 +109,14 @@ a:hover{
     margin-right: 30px;
 }
 
+.games {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-left: 30px;
+}
+
 .bottom-container {
     background-color: darkslategray;
     position: relative;
