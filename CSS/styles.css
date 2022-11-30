@@ -115,6 +115,11 @@ a:hover{
     padding: 50px;
 }
 
+/* CLASS Selectors */
+.tab {
+    margin: 10px 10px 10px 10px;
+}
+
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
